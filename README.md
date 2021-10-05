@@ -34,4 +34,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Add your name and email here
+* Devin Johnson - joh17013@byui.edu
