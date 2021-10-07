@@ -56,7 +56,7 @@ class Thrower:
         Arguments:
             self (Thrower): An instance of Thrower
         """
-        for i in range(6):
+        for i in range(5):
             if self.num_throws == 0:
                 self.dice.append(random.randint(1,6))
             else:
